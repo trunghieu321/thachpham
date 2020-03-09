@@ -1,7 +1,7 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: nguye
- * Date: 3/9/2020
- * Time: 9:05 AM
- */
+	if( is_active_sidebar('main-sidebar') ) :
+		dynamic_sidebar('main-sidebar');
+	else :
+		_e('This is sidebar. You have to add some widgets', 'thachpham');
+	endif;
+?>

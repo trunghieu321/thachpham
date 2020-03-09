@@ -1,3 +1,3 @@
 <div class="no-post">
-    <?php _e('Nothing post found.', 'thachpham'); ?>
+	<?php _e('Nothing post found', 'thachpham'); ?>
 </div>
