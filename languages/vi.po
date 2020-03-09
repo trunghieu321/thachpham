@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2015-03-20 15:13+0100\n"
-"PO-Revision-Date: 2015-03-20 15:18+0100\n"
+"POT-Creation-Date: 2014-09-18 14:50+0100\n"
+"PO-Revision-Date: 2014-09-18 14:51+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8\n"
+"X-Generator: Poedit 1.8.1\n"
 "X-Poedit-Basepath: ../\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-KeywordsList: __;_e\n"
@@ -36,7 +36,7 @@ msgstr ""
 #: archive.php:7
 #, php-format
 msgid "Posts tagged: %1$s"
-msgstr "Từ khoá: %1$s"
+msgstr ""
 
 #: archive.php:9
 #, php-format
@@ -67,78 +67,78 @@ msgstr ""
 msgid "Nothing post found"
 msgstr ""
 
-#: functions.php:57
+#: functions.php:56
 msgid "Primary Menu"
 msgstr ""
 
-#: functions.php:61
+#: functions.php:60
 msgid "Main Sidebar"
 msgstr ""
 
-#: functions.php:63
+#: functions.php:62
 msgid "Default sidebar"
 msgstr ""
 
-#: functions.php:125
+#: functions.php:122
 msgid "Older Posts"
 msgstr ""
 
-#: functions.php:128
+#: functions.php:125
 msgid "Newest Posts"
 msgstr ""
 
-#: functions.php:166
+#: functions.php:163
 #, php-format
 msgid "<span class=\"author\">Posted by %1$s"
-msgstr "<span class=\"author\">Viết bởi %1$s"
+msgstr "<span class=\"author\">Đăng bởi %1$s"
 
-#: functions.php:169
+#: functions.php:166
 #, php-format
 msgid "<span class=\"date-published\"> at %1$s"
 msgstr ""
 
-#: functions.php:172
+#: functions.php:169
 #, php-format
 msgid "<span class=\"category\"> in %1$s "
 msgstr ""
 
-#: functions.php:178
+#: functions.php:175
 msgid "Leave a comment"
 msgstr ""
 
-#: functions.php:179
+#: functions.php:176
 msgid "One comment"
 msgstr ""
 
-#: functions.php:180
+#: functions.php:177
 #, php-format
 msgid "% comments"
 msgstr ""
 
-#: functions.php:181
+#: functions.php:178
 msgid "Read all comments"
 msgstr ""
 
-#: functions.php:203
+#: functions.php:200
 msgid "<p>Page: "
 msgstr ""
 
-#: functions.php:205
+#: functions.php:202
 msgid "Next Page"
 msgstr ""
 
-#: functions.php:206
+#: functions.php:203
 msgid "Previous Page"
 msgstr ""
 
-#: functions.php:214
+#: functions.php:211
 msgid "...[Read More]"
 msgstr ""
 
-#: functions.php:226
+#: functions.php:223
 #, php-format
 msgid "Tagged in %1$s"
-msgstr "Thẻ: %1$s"
+msgstr ""
 
 #: search.php:9
 #, php-format
